@@ -12,7 +12,7 @@ En la siguiente grafica obtenemos el promedio de cada uno de los ratings para ve
 
 *count_GR=rated_movies.groupby(['genres','rating'])["genres"].count().reset_index(name="count")*
 *rat_GR=count_GR.sort('count',ascending=False).groupby('rating')['count'].mean().reset_index(name="mean")*
-![alt text](https://github.com/drefk99/pythonClass/blob/master/figure_1-5.png)
+![alt text](https://github.com/drefk99/pythonClass/blob/master/figure_1-8.png)
 
 ### Genres
 Hay algunos casos donde la cantidad de observaciones solo llegan a 1 y esto le quita claridad a nuestro analizis, por ello se filtraron unicamente los 20 mas comentados de todas la peliculas.
