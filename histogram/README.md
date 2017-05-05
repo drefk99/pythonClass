@@ -6,7 +6,7 @@
 Para delimitar que peliculas deberian ser tomadas en cuenta primero se aplico un filtro donde solamente se buscarian las peliculas más votadas y representarlas en una grafica de barras como se muestra:
 
 ### Valores
-                                      Title  Votes
+                                          Title  Votes
                         Forrest Gump (1994)    341
                         Pulp Fiction (1994)    324
            Shawshank Redemption, The (1994)    311
