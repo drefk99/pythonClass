@@ -32,5 +32,5 @@ Si se busca una visión donde la granularidad sea mayor, se pueden separar cada 
 
 ![alt text](https://github.com/drefk99/pythonClass/blob/master/histogram/separate_hist.png)
 
-###Notas:
+### Notas:
 El codigo que genero las graficas se encuentra en hist.py en este mismo directorio.	
