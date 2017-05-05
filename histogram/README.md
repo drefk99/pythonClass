@@ -7,7 +7,7 @@ Para delimitar que peliculas deberian ser tomadas en cuenta primero se aplico un
 
 ### Valores
                     	                  Title  Votes
-                	        Forrest Gump (1994)    341
+	                	        Forrest Gump (1994)    341
             	            Pulp Fiction (1994)    324
         	   Shawshank Redemption, The (1994)    311
     	       Silence of the Lambs, The (1991)    304
