@@ -1,3 +1,4 @@
+import matplotlib as plt
 plt.bar(range(len(count_sort['genres'][0:5])),count_sort['count'][0:5])
 plt.xticks(range(len(count_sort['genres'][0:5])),count_sort['genres'][0:5])
 count_sort=count.sort('count', ascending=False)
